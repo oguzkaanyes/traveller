@@ -1,0 +1,11 @@
+C:\Users\usrd\Desktop\Robotic\bin\Debug\netcoreapp2.1\Robotic.deps.json
+C:\Users\usrd\Desktop\Robotic\bin\Debug\netcoreapp2.1\Robotic.runtimeconfig.json
+C:\Users\usrd\Desktop\Robotic\bin\Debug\netcoreapp2.1\Robotic.runtimeconfig.dev.json
+C:\Users\usrd\Desktop\Robotic\bin\Debug\netcoreapp2.1\Robotic.dll
+C:\Users\usrd\Desktop\Robotic\bin\Debug\netcoreapp2.1\Robotic.pdb
+C:\Users\usrd\Desktop\Robotic\obj\Debug\netcoreapp2.1\Robotic.csprojAssemblyReference.cache
+C:\Users\usrd\Desktop\Robotic\obj\Debug\netcoreapp2.1\Robotic.csproj.CoreCompileInputs.cache
+C:\Users\usrd\Desktop\Robotic\obj\Debug\netcoreapp2.1\Robotic.AssemblyInfoInputs.cache
+C:\Users\usrd\Desktop\Robotic\obj\Debug\netcoreapp2.1\Robotic.AssemblyInfo.cs
+C:\Users\usrd\Desktop\Robotic\obj\Debug\netcoreapp2.1\Robotic.dll
+C:\Users\usrd\Desktop\Robotic\obj\Debug\netcoreapp2.1\Robotic.pdb

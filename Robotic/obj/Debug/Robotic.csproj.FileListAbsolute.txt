@@ -1,7 +1,0 @@
-C:\Users\usrd\source\repos\Robotic\Robotic\bin\Debug\Robotic.exe.config
-C:\Users\usrd\source\repos\Robotic\Robotic\bin\Debug\Robotic.exe
-C:\Users\usrd\source\repos\Robotic\Robotic\bin\Debug\Robotic.pdb
-C:\Users\usrd\source\repos\Robotic\Robotic\obj\Debug\Robotic.csprojResolveAssemblyReference.cache
-C:\Users\usrd\source\repos\Robotic\Robotic\obj\Debug\Robotic.csproj.CoreCompileInputs.cache
-C:\Users\usrd\source\repos\Robotic\Robotic\obj\Debug\Robotic.exe
-C:\Users\usrd\source\repos\Robotic\Robotic\obj\Debug\Robotic.pdb
