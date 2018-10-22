@@ -1,0 +1,6 @@
+
+If u dont have .NET SDK, you have to download from "https://www.microsoft.com/net/learn/dotnet/hello-world-tutorial".
+
+Open Visual studio.
+
+Finally, you should run "dotnet run" command in the command line.
